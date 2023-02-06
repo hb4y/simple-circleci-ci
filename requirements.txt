@@ -7,8 +7,8 @@ mccabe
 more-itertools
 pluggy
 py
-pycodestyle
-pyflakes
+pycodestyle~=2.9.0
+pyflakes~=2.5.0
 pytest
 pytest-cov
 six
